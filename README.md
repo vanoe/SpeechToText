@@ -21,33 +21,47 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
 
 ## Examples
 
-<details>
-    <summary>Screenshots</summary>
-    <table>
-        <tbody>
-            <tr>
-                <td><img src="./img/img-2.png" alt="image"></td>
-                <td><img src="./img/img-3.png" alt="image"></td>
-            </tr>
-            <tr>
-                <td><img src="./img/img-4.png" alt="image"></td>
-                <td><img src="./img/img-5.png" alt="image"></td>
-            </tr>
-            <tr>
-                <td><img src="./img/img-6.png" alt="image"></td>
-                <td><img src="./img/img-7.png" alt="image"></td>
-            </tr>
-            <tr>
-                <td><img src="./img/img-8.png" alt="image"></td>
-                <td><img src="./img/img-9.png" alt="image"></td>
-            </tr>
-            <tr>
-                <td><img src="./img/img-10.png" alt="image"></td>
-                <td></td>
-            </tr>
-        </tbody>
-    </table>
-</details>
+<table>
+    <tbody>
+        <tr>
+            <td><img src="./img/img-2.png" alt="image"></td>
+            <td><img src="./img/img-3.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-4.png" alt="image"></td>
+            <td><img src="./img/img-5.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-6.png" alt="image"></td>
+            <td><img src="./img/img-7.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-8.png" alt="image"></td>
+            <td><img src="./img/img-9.png" alt="image"></td>
+        </tr>
+        <tr>
+            <td><img src="./img/img-10.png" alt="image"></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <tbody>
+        <tr>
+            <td>
+                <video src="https://github.com/user-attachments/assets/83dd70f5-1c63-42df-8b5a-a719e35895d7" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+            <td>
+                <video src="https://github.com/user-attachments/assets/27a6722f-51b5-48ce-958c-c0bf1d65b2b1" controls preload>
+                    Your browser does not support the video tag.
+                </video>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 ---
 
