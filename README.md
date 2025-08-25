@@ -24,19 +24,16 @@ By using **advanced AI 🤖**, it understands different ways people speak and wo
 
 ## 📂 Examples
 
-🔗 [View Examples](https://drive.google.com/drive/folders/1yvEwsEqsoCwbUIgJFRq0OPwJOFF96y4S?usp=drive_link)
 
 ---
 
 ## 🖼️ Screenshots
 
-📸 [See Screenshots](https://drive.google.com/drive/folders/1z6XFsN1r_O_R1u6Dobrd3Rec9EVPtbyD?usp=sharing)
 
 ---
 
 ## 🎥 Demo Video
 
-▶️ [Watch Video](https://drive.google.com/drive/folders/1yvEwsEqsoCwbUIgJFRq0OPwJOFF96y4S?usp=drive_link)
 
 ---
 
