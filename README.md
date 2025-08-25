@@ -6,6 +6,7 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
 
 ## Scheme
 
+<img src="./img/img-1.png" alt="Scheme">
 
 ---
 
@@ -19,6 +20,34 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
 ---
 
 ## Examples
+
+<details>
+    <summary>Screenshots</summary>
+    <table>
+        <tbody>
+            <tr>
+                <td><img src="./img/img-2.png" alt="image"></td>
+                <td><img src="./img/img-3.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-4.png" alt="image"></td>
+                <td><img src="./img/img-5.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-6.png" alt="image"></td>
+                <td><img src="./img/img-7.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-8.png" alt="image"></td>
+                <td><img src="./img/img-9.png" alt="image"></td>
+            </tr>
+            <tr>
+                <td><img src="./img/img-10.png" alt="image"></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+</details>
 
 ---
 
