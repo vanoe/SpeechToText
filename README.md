@@ -63,6 +63,8 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
     </tbody>
 </table>
 
+[English STT](./example/English_STT.md)
+
 ---
 
 ## Full Description
