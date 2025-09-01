@@ -5,14 +5,14 @@
 Automatically transcribed by Speechnotes on: 8/4/2025, 12:33:24 PM  
 Total recording length: 00:04:16
 
-{ 0:00 }  
+### {0:00}  
 Hello les entrepreneurs, c’est Chloé de l’Egal Start, alors tu veux créer ton entreprise et il te manque un élément crucial, le nom. Trouver un nom qui te ressemble et qui marque les esprits, ça paraît simple non ? Mais en réalité, ce n’est pas si évident parce que ton nom doit être plus qu’original, il doit aussi être légalement disponible et facile à retenir. Pas de panique, je vais te guider étape par étape pour choisir le nom.
 
 Déjà, commençons par une petite question, tu penses à quoi quand on parle de nom d’entreprise ? Peut-être au nom qu’on voit sur les papiers administratifs ou plutôt à celui qui attire les clients sur une enseigne ou un site web. Les deux peuvent être différents et c’est une subtilité qu’on ne connaît pas toujours.
 
 D’un côté, il y a le nom officiel qu’on appelle la dénomination sociale, c’est celui qui figure sur les documents officiels comme le Kbis ou les factures. Et de l’autre, il y a le nom commercial qui est souvent plus marketing et orienté client. Mais si tu veux simplifier les choses, tu peux utiliser un seul nom pour tout.
 
-{ 0:54 }  
+### {0:54}  
 Donc avant même de chercher ton nom, demande-toi : est-ce que tu veux un nom qui fasse tout ou un nom plus vendeur pour ton activité ? Une fois que tu as la réponse, on peut avancer.
 
 Alors pour commencer, la première étape est de réfléchir à l’identité de ton entreprise et ton activité avant même de chercher un nom. Pose-toi une question : qu’est-ce que tu veux que ce nom dise sur ton entreprise ? Est-ce qu’il doit refléter tes valeurs, ton activité ou une émotion particulière ? Ton nom doit être clair et parler à ta cible.
@@ -23,7 +23,7 @@ Si tu envisages de diversifier tes activités plus tard, évite un nom trop rest
 
 Deuxième chose à faire, vérifie que ton nom est bien disponible.
 
-{ 1:47 }  
+### {1:47}  
 Je sais ce que tu te dis hein, je vais chercher sur Google ou les réseaux sociaux et hop c’est bon. Pour être sûr, il faut faire une vraie recherche d’antériorité auprès de l’INPI, l’Institut National de la Propriété Industrielle.
 
 Pourquoi ? Parce qu’un nom déjà déposé comme marque est juridiquement protégé. Et si tu trouves un nom similaire, qu’est-ce que tu fais ? Alors sache que ça dépend du secteur.
@@ -36,7 +36,7 @@ Comme quoi, même des activités différentes peuvent poser problème.
 
 Et si tu as un doute, n’hésite pas à nous contacter. On a aussi un service de recherche d’antériorité pour t’assurer que ton nom est bien disponible.
 
-{ 2:40 }  
+### {2:40}  
 Et une fois que tu es sûr de ton nom, protège-le ! Pour ça, le dépôt de marque se fait sur l’INPI et dépose-le en tant que marque.
 
 Ce dépôt te garantit une protection juridique pendant **10 ans renouvelable**.
@@ -57,7 +57,7 @@ N’hésite pas à demander l’avis de ton entourage, de tes futurs clients ou 
 
 Et si tu vises un marché international, vérifie aussi que ton nom n’a pas une connotation négative ou un sens ambigu dans une autre langue.
 
-{ 3:38 }  
+### {3:38}  
 Même une petite ressemblance peut te poser des problèmes juridiques et nuire à ta crédibilité.
 
 En résumé, voici les 3 points clés à retenir :

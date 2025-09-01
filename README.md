@@ -65,6 +65,10 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
 
 [English STT](./example/English_STT.md)
 
+[French STT](./example/French_STT.md)
+
+[Spanish STT](./example/Spanish_STT.md)
+
 ---
 
 ## Full Description
