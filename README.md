@@ -67,6 +67,9 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
 
 ## Full Description
 
+<details>
+<summary>📖 Click to expand the Description</summary>
+
 ### Problem
 Human speech is diverse, influenced by accents, dialects, and noisy environments. Traditional systems often fail to achieve consistent accuracy, creating barriers for non-native speakers, regional dialects, and noisy workplaces.
 
@@ -112,3 +115,5 @@ Human speech is diverse, influenced by accents, dialects, and noisy environments
 5. [Improving Noise Robustness of ASR via Parallel Data and Teacher-student Learning](https://arxiv.org/abs/1904.04100)
 6. [Listening to Each Other: A Multilingual Dataset for Distant Speech Recognition](https://arxiv.org/abs/2006.13979)
 7. [Federated Learning for Mobile Keyboard Prediction](https://arxiv.org/abs/1811.03604)  
+
+</details>
