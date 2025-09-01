@@ -46,6 +46,8 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
     </tbody>
 </table>
 
+### 🎥 Videorecording
+
 <table>
     <tbody>
         <tr>
@@ -62,6 +64,8 @@ Speech-to-Text solution transforms spoken language into accurate, real-time text
         </tr>
     </tbody>
 </table>
+
+### 📖 Docs
 
 [English STT](./example/English_STT.md)
 
