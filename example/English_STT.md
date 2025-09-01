@@ -1,5 +1,8 @@
 # Transcript: Body Language in Interviews
-**Video URL:** [![Watch the video](https://img.youtube.com/vi/PCWVi5pAa30/0.jpg)](https://www.youtube.com/watch?v=PCWVi5pAa30)
+**Video URL:** 
+
+[![Watch the video](https://img.youtube.com/vi/PCWVi5pAa30/0.jpg)](https://www.youtube.com/watch?v=PCWVi5pAa30)
+
 **Total recording length:** 00:04:06
 
 ---
